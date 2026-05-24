@@ -1,6 +1,6 @@
 Travel Agency Management System
-📌 Project Description
 
+📌 Project Description
 The Travel Agency Management System is a Java-based desktop application developed to automate and simplify travel agency operations. The system allows efficient management of customer records, travel bookings, hotel reservations, and payment details through an organized and user-friendly interface. It is developed using Object-Oriented Programming (OOP) concepts with SQL database integration for secure data management.
 
 ✨ Features
